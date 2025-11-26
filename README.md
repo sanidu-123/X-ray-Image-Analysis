@@ -67,7 +67,7 @@ Multi-label predictions for 5 thoracic diseases:
 ### ⚠️ Disclaimer
 
 This project is for research and academic purposes only.
-It is not intended for clinical diagnosis and must not be used in medical decision-making. models are not included
+It is not intended for clinical diagnosis and must not be used in medical decision-making. Models are not included
 
 ### 👨‍💻 Author
 Sanidu S. Hewage - BSc (Hons) in Data Science – NSBM Green University
